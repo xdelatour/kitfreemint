@@ -8,7 +8,7 @@ KitFreeMiNT est une distribution FreeMiNT basée sur pkgsrc pour l'émulateur AR
 - pkgsrc : 29000 logiciels potentiellement disponibles
 - Remettre au goût du jour le noyau FreeMiNT et la bibliothèque C MiNTlib
 
-# Où trouver KitFreeMINT ?
+# Où trouver KitFreeMiNT ?
 
 ## Backend
 Le développement est réalisé sur un serveur auto-hébergé :  https://git.djced.fr/kitfreemint
