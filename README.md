@@ -19,5 +19,5 @@ La dernière version est la 2026.02-1 publiée le premier février 2026 [ici](ht
 Le site web est accessible ici : https://kitfreemint.xdelatour.fr
 
 ## La forge logicielle
-Le développement est réalisé sur un serveur auto-hébergé :  https://git.djced.fr/kitfreemint
+Le développement est réalisé ici :  https://git.djced.fr/kitfreemint
 
